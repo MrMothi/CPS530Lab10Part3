@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cps530lab10part3/static/css/main.073c9b0a.css",
+    "main.js": "/cps530lab10part3/static/js/main.fac18895.js",
+    "static/js/787.95224524.chunk.js": "/cps530lab10part3/static/js/787.95224524.chunk.js",
+    "static/media/logo.svg": "/cps530lab10part3/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cps530lab10part3/index.html",
+    "main.073c9b0a.css.map": "/cps530lab10part3/static/css/main.073c9b0a.css.map",
+    "main.fac18895.js.map": "/cps530lab10part3/static/js/main.fac18895.js.map",
+    "787.95224524.chunk.js.map": "/cps530lab10part3/static/js/787.95224524.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fac18895.js"
+  ]
+}
